@@ -47,7 +47,3 @@ Aplikasi ini cocok untuk dipelajari oleh siapa saja yang ingin memahami implemen
 ### Catatan
 - Aplikasi ini menggunakan server dummy, sehingga data tidak akan benar-benar tersimpan atau terhapus pada JSONPlaceholder.
 - Cocok sebagai bahan belajar dasar integrasi API di Flutter.
-
----
-
-Dengan penjelasan tambahan ini, README menjadi lebih informatif bagi pemula yang ingin memastikan proyek mereka memiliki struktur yang lengkap sejak awal.
