@@ -1,13 +1,9 @@
-Berikut versi yang lebih rapi dari dokumentasi untuk proyek:
-
----
-
 # CRUD_DS
 
 Aplikasi CRUD sederhana menggunakan Flutter yang terhubung dengan server dummy JSONPlaceholder untuk operasi **Create**, **Read**, **Update**, dan **Delete**.
 
 ### API Dummy Server
-Menggunakan JSONPlaceholder sebagai server dummy untuk data. Anda dapat mengakses API-nya di:  
+Menggunakan JSONPlaceholder sebagai server dummy untuk data. Link dapat mengakses API-nya di:  
 [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
 ### Deskripsi
