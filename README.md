@@ -1,16 +1,27 @@
-# crud_ds
+Berikut versi yang lebih rapi dari dokumentasi untuk proyek:
 
-A new Flutter project.
+---
 
-## Getting Started
+# CRUD_DS
 
-This project is a starting point for a Flutter application.
+Aplikasi CRUD sederhana menggunakan Flutter yang terhubung dengan server dummy JSONPlaceholder untuk operasi **Create**, **Read**, **Update**, dan **Delete**.
 
-A few resources to get you started if this is your first Flutter project:
+### API Dummy Server
+Menggunakan JSONPlaceholder sebagai server dummy untuk data. Anda dapat mengakses API-nya di:  
+[https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Deskripsi
+Aplikasi ini cocok untuk dipelajari oleh siapa saja yang ingin memahami implementasi dasar CRUD di Flutter menggunakan API RESTful. Dengan aplikasi ini, Anda dapat mempelajari cara mengambil data dari server, menambah data baru, mengedit data, serta menghapus data.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Penggunaan
+1. **Buka** file `main.dart`.
+2. **Jalankan** aplikasi pada Android Studio menggunakan emulator, misalnya Pixel 5 API 31.
+3. **Tes Fungsi CRUD** untuk memastikan semua fitur berjalan sesuai harapan.
+
+### Catatan
+- Aplikasi ini menggunakan server dummy, sehingga data tidak akan benar-benar tersimpan atau terhapus pada JSONPlaceholder.
+- Cocok sebagai bahan belajar dasar integrasi API di Flutter.
+
+--- 
+
+Dengan dokumentasi ini, proyek lebih terstruktur dan mudah dipahami untuk pemula.
